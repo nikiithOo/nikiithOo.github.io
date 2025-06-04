@@ -49,14 +49,14 @@ canvas {
   padding: 0;
   margin: 1rem 0 0.5rem;
   color: #6eeb83;
-  font-size: 2rem;
+  font-size: 4rem;
   font-weight: 900;
 }
 
 .challenge-subtitle {
   text-align: center;
   margin: 0;
-  font-size: 1.125rem;
+  font-size: 2rem;
   font-weight: 400;
   color: #117c23;
 }
